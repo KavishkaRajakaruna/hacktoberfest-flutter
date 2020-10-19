@@ -56,3 +56,8 @@
 - Place: Aligarh, Uttar Pradesh
 - Bio: Flutter Developer, B.Tech(CSE) 2nd Year student.
 - GitHub: [Apoorv Maheshwari](https://github.com/Apoorv-cloud) 
+
+#### Name: [Bhupendra Pateli](https://github.com/Bhupendrapt5)
+- Place: Chhattisgarh India
+- Bio: Flutter Developer,.
+- GitHub: [Bhupendra Patel](https://github.com/Bhupendrapt5) 
